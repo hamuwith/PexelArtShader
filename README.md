@@ -9,13 +9,13 @@ Shader Graphで構成されており、ポスタライズやエッジ抽出を�
 
 ## 📁 含まれるファイル
 
-Assets/
+```Assets/
 └── PixelArtShader/
 ├── PixelArt.shadergraph ← シェーダー本体
 └── PixelArtMaterial.mat ← フルスクリーンパス用マテリアル
 
 ルート/
-└── pixelArt.png ← プレビュー画像（README用）
+└── pixelArt.png ← プレビュー画像（README用）```
 
 ---
 
